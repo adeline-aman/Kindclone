@@ -1,0 +1,288 @@
+body{
+	margin: 0;
+	font-family:  Verdana;
+	font-size: 13px;
+	line-height: 1.6;
+	background: #FFF;
+	color: #444;
+	width: 50%;
+	border-left: 0px solid #DDD.
+}
+
+.wrapper-black{
+	width: 1350px;
+	height: 50px;
+	background-color: black;
+
+}
+
+header  ul{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	
+}
+
+header ul li{
+	float: left;
+	width: 16.66667%;
+	margin: 0;
+	padding: 0;
+}
+
+header  a{
+color: white;
+	font-size: 1em;
+	padding: 15px 0;
+	text-align: center;
+}
+
+header a:hover{
+	color: #A6A6A6;
+}
+
+
+
+
+.container{
+	width: auto;
+}
+#jit img{
+	width: 100px;
+}
+#gras{
+	background-color: rgb(9,93,103);
+	height: 380px;
+	padding: 10px;
+	width: 1350px;
+
+}
+#gras h1{
+font-size: 4em;
+padding: 10 300px 10px 30px;
+color: white;
+line-height: 0.8em;
+font-weight: bold;
+}
+#gras button{
+	color: white;
+	background-color: black;
+	border-color: black;
+	border-radius: 0px;
+	width: 157px;
+	
+}
+#gras button:hover{
+	background-color: #C6C6C6;
+	border-color: #C6C6C6;
+}
+
+
+#fats{
+	margin: 50px 120px 50px 10px;
+	margin-right: 0px;
+	padding-left: 10px;
+}
+#fats h2{
+	text-align: center;
+	font-weight: bold;
+	margin: 10px;
+}
+#grir{
+	height: 500px;
+	background-color: rgb(242,242,242);
+	text-align: center;
+	padding: 0 50px 0 50px;
+	width: 1400px;
+}
+#grir h3{
+	font-weight: bold;
+	font-size:2em; 
+
+}
+#grir button{
+	background-color: black;
+	width: 157px;
+	color: white;
+	border-radius: 0px;
+	font-weight: bold;
+	margin: 25px 0 30px 0;
+}
+#grir button:hover{
+	border-color: #C6C6C6;
+	background-color: #C6C6C6;
+
+}
+#grir a{
+	font-weight:bold; 
+	color: black;
+	border-bottom: 2px solid black;
+	padding-bottom: 5px;
+	
+}
+#grir a:hover{
+border-bottom: 2px solid #C6C6C6;
+	padding-bottom: 5px;
+text-decoration: none;
+	color: #C6C6C6;
+}
+#bri{
+	padding: 100px 0px 0px 40px;
+}
+#bri span{
+font-weight: bold;
+}
+#bri h3{
+	margin: 35px 0 35px 0;
+	font-size: 2.5em;
+	font-weight: bold;
+}
+#bri p{
+	margin-bottom: 30px;
+}
+#bri a{
+	color: black;
+	border-bottom: 2px solid black;
+	padding-bottom: 5px;
+}
+#bri a:hover{
+	text-decoration: none;
+	border-bottom: 2px solid #C6C6C6;
+	padding-bottom: 5px;
+}
+#fri{
+	padding:100px 0 0 40px; 
+}
+
+#fri span{
+font-weight: bold;
+}
+#fri h3{
+	margin: 35px 0 35px 0;
+	font-size: 2.5em;
+	font-weight: bold;
+}
+#fri p{
+	margin-bottom: 30px;
+}
+#fri a{
+	color: black;
+	border-bottom: 2px solid black;
+	padding-bottom: 5px;
+}
+#fri a:hover{
+	text-decoration: none;
+	border-bottom: 2px solid #C6C6C6;
+	padding-bottom: 5px;
+}
+
+
+
+.feature1{
+	margin-left:500px; 
+}
+
+.wrapper-grey{
+	width: 1350px;
+	font-size: 13px;
+	background:#EDEFF0;
+	color: #4e4e4e;
+}
+
+.container ul li{
+	float: right;
+	width: 12%;
+	margin: 0;
+	padding: 0;
+}
+
+.container a{
+margin-top: 60px;
+	font-size: 1.25em;
+	padding-right: 15px;
+	text-align: center;
+}
+
+.wrapper1-grey{
+	width: 1350px;
+	font-size: 13px;
+	background:#EDEFF0;
+	color: #4e4e4e;
+	height: 300px;
+}
+
+#bi button{
+	color: white;
+	background-color: black;
+	border-color: black;
+	border-radius: 0px;
+	width: 157px;
+	margin-left: 550px;
+	
+}
+#bi button:hover{
+	border-color: #C6C6C6;
+	background-color: #C6C6C6;
+}
+
+ h5 {
+font-size: 2em;
+padding: 10 30px 100px 300px;
+color: black;
+line-height: 0.8em;
+font-weight: bold;
+text-align: center;
+}
+
+#bi p{
+	text-align: center;
+}
+
+#bi{
+	background-color: #C6C6C6;
+	height: 237px;
+	padding: 90px;
+	width: 1450px;
+}
+
+.wrapper2 {
+	background-image: url('../images-KIND/homepage_pressed_strawberry.png');
+	height: 600px;
+	background-size: cover;
+	padding-top: 90px;
+	margin: 0px;
+	width: 1300px;
+	text-align: center;
+	color: white;
+}
+
+#wrapper2 button{
+	color: white;
+	background-color: black;
+	border-color: black;
+	border-radius: 0px;
+	width: 157px;
+	margin-left: 550px;
+	
+}
+#wrapper2 button:hover{
+	border-color: #C6C6C6;
+	background-color: #000000;
+}
+
+ h6 {
+font-size: 4em;
+padding: 10 30px 100px 300px;
+color: black;
+line-height: 0.8em;
+font-weight: bold;
+text-align: center;
+}
+
+.wrapper3-grey{
+	width: 1350px;
+	font-size: 13px;
+	background:#EDEFF0;
+	color: #4e4e4e;
+	height: 300px;
+}
